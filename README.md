@@ -24,4 +24,6 @@ es. npm
 
 - config
 separare la configurazione dal codice e memorizzarle in variabili di ambiente
+-------------------------------
+
 
